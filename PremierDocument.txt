@@ -1,0 +1,4 @@
+Bonjour Florine, bienvenue
+dans ce TP pratique pour 
+t'apprendre à utiliser
+Git !
